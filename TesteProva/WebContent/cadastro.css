@@ -1,0 +1,40 @@
+body {
+  background-color: aquamarine;
+  
+  text-align:left;
+   
+ background-image: url("1.jpg");
+  
+ 
+}
+
+h1 {
+	text-align:center;
+	
+	 font-size : 50px;
+}
+
+
+input {
+	display:block;
+	font: 15px roboto;
+	padding:5px;
+	margin-bottom:10px;
+	background:white; 
+	border: 3;
+	
+	
+}
+
+legend {
+	padding: 7px 5px;
+	font-size : 20px;
+}
+
+
+fieldset{
+	
+	width: 25%;
+	border:0;
+	
+}

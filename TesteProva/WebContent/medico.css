@@ -1,0 +1,30 @@
+body {
+  background-color: aquamarine;
+  
+  text-align:center;
+   
+ background-image: url("1.jpg");
+  
+ padding:140px;
+}
+
+a {
+   
+   text-align:left;
+
+	}
+	
+input {
+	
+	display:block;
+	font: 13px roboto;
+	padding:10px;
+	margin-bottom:10px;
+	background:white; 
+	border: 3;
+	text-align:center;
+	
+	margin: 2% auto ;
+	
+}	
+	
